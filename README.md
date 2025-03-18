@@ -1,2 +1,2 @@
-# SolidarioApp
-App de Donaciones 
+# SolidarioApp 
+App de Donaciones 👍
